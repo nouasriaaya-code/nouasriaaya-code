@@ -29,7 +29,7 @@
 
 ### 🛠️ Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
