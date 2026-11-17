@@ -45,9 +45,9 @@ I enjoy exploring the world of programming, understanding how technology works, 
 <img src="https://img.shields.io/badge/Python-Programming-F6D5E5?style=for-the-badge&logo=python&logoColor=80506F"/>
 <img src="https://img.shields.io/badge/PHP-Web_Development-D9D0F5?style=for-the-badge&logo=php&logoColor=69538F"/>
 
-
+<div>
 <div align="center">
-
+---
 ### 🛠️ Tools & Technologies
 
 <a href="https://github.com/nouasriaaya-code">
@@ -67,7 +67,7 @@ I enjoy exploring the world of programming, understanding how technology works, 
 </a>
 
 </div>
-
+</div>
 ---
 
 ## 💜 04. My Learning Journey
