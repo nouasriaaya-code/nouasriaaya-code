@@ -21,7 +21,7 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
+<p align="centre">
   <img src="https://skillicons.dev/icons?i=c,python,php" />
 </p>
 
