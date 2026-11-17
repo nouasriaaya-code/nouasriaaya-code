@@ -45,19 +45,26 @@ I enjoy exploring the world of programming, understanding how technology works, 
 <img src="https://img.shields.io/badge/Python-Programming-F6D5E5?style=for-the-badge&logo=python&logoColor=80506F"/>
 <img src="https://img.shields.io/badge/PHP-Web_Development-D9D0F5?style=for-the-badge&logo=php&logoColor=69538F"/>
 
-</div>
-
----
-
-## 🦋 03. Tools & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=light" alt="GitHub VS Code"/>
+### 🛠️ Tools & Technologies
 
-<br/><br/>
-
-`GitHub`　 `VS Code`　 `C`　 `Python`　 `PHP`
+<a href="https://github.com/nouasriaaya-code">
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" alt="VS Code"/>
+</a>
+<a href="https://en.cppreference.com/w/c">
+  <img src="https://skillicons.dev/icons?i=c&theme=light" width="48" alt="C"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python&theme=light" width="48" alt="Python"/>
+</a>
+<a href="https://www.php.net/">
+  <img src="https://skillicons.dev/icons?i=php&theme=light" width="48" alt="PHP"/>
+</a>
 
 </div>
 
